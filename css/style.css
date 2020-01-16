@@ -1,0 +1,15 @@
+#accordion {
+    margin: 5%;
+  }
+  
+  #faq {
+    border-bottom: solid lightgray 1px;
+  }
+  
+  .card-link {
+    color: orangered;
+  }
+  
+  .card-header {
+    text-align: center;
+  }
